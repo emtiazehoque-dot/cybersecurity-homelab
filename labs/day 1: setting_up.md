@@ -50,6 +50,8 @@ The SSH client prompts for the user's password if password-based authentication 
 
 After successfully connecting, I could access and operate the Ubuntu server through my laptop's terminal without directly interacting with the VM screen.
 
+![SSH Login](../images/ssh%20login%20screenshot%20day%201.png)
+
 ### Key Concept
 
 SSH provides secure remote terminal access to a server over a network. It is commonly used for Linux server administration.
@@ -69,6 +71,8 @@ I then started a basic HTTP server using Python:
 ```bash
 sudo python3 -m http.server 80 --bind 0.0.0.0
 ```
+
+![Pthon Server](../images/python%20http%20server%20day%201.png)
 
 ### Explanation
 
@@ -192,6 +196,8 @@ scp -r /path/to/folder username@hostname.local:/destination/path/
 ```
 
 The `-r` option enables recursive copying of directories.
+
+![Uploading Files using scp](../images/scp%20working%20screenshot%20day%201.png)
 
 ### 8.3. Other File Transfer Options
 
