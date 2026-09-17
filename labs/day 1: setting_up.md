@@ -1,11 +1,7 @@
-# Cybersecurity Homelab
+# Setups:
 
-My setup for experimenting with dangerous but beautiful networks and you-know-what stuffs. I'll try to document as much as possible to track my progress.
-
-Setups:
-
-- Ubuntu server using virtual box. Exact iso: `ubuntu-26.04.1-live-server-amd64.iso`
-- Virtual Box version: 7.0. Exact release: `VirtualBox Graphical User Interface Version 7.0.12_Ubuntu r159484`
+- Ubuntu server using virtual box. Exact iso: `ubuntu-26.04.1-live-server-amd64.iso` [Download Link.](https://ubuntu.com/download/server)
+- Virtual Box version: 7.0. Exact release: `VirtualBox Graphical User Interface Version 7.0.12_Ubuntu r159484` [Download VirtualBox.](https://www.virtualbox.org/wiki/Downloads)
 - Server Resources:
   - Base memory: 2048 MB
   - Processor: 4 core
